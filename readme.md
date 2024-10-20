@@ -6,8 +6,9 @@ This is a real-time multiplayer battlefield game built with React, Node.js, and 
 ## Project Structure
 
 
-`/client   # React front-end
-/backend  # Node.js back-end with Socket.IO for real-time communication` 
+`/client   # React front-end`
+
+`/backend  # Node.js back-end with Socket.IO for real-time communication` 
 
 ## Prerequisites
 
