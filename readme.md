@@ -21,6 +21,7 @@ This is a real-time multiplayer battlefield game built with React, Node.js, and 
 
 
 `git clone [<your-repo-url>](https://github.com/geekujwal/Battlefield-game-fullstack-.git) `
+
 `cd battlefield-game` 
 
 ### 2. Install dependencies
@@ -29,11 +30,13 @@ For the back-end:
 
 
 `cd backend`
+
 `npm i` 
 
 For the front-end:
 
 `cd ../client`
+
 `npm install` 
 
 ### 3. Run the application
@@ -43,12 +46,14 @@ To run both the server and client, you'll need two separate terminal instances.
 #### Start the back-end server
 
 `cd backend`
+
 `npm start` 
 
 #### Start the front-end React app
 
 
 `cd client`
+
 `npm run dev` 
 
 ### 4. Access the game
